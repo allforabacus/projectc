@@ -19,9 +19,16 @@ What all you should know
 
 2. We are not writing a single huge .c file containing all the code. That is neither a standard nor an efficient practice. Therefore, we need to split the entire project into different pieces. As such, you will need to understand how multiple files can be compiled together. In our case, the main.c, projectc.h and other .c files.
 
-3. You need to know how git works. How a commit is done and what it is. Download the book called "progit" which is available for free on the web and go through it. It should provide with the basics as well as advanced knowledge about it. NOTE : Read and learn git well before you actually start contibuting to the project.
+3. You need to know how 'make' and 'Makefiles' work. This link provides quite a good description of this : http://www.eng.hawaii.edu/Tutor/Make/ . However there are many resources on the net and you are free to choose any that you like.
 
-4. You need to know what github is and how you can work with the code uploaded there. Github.com itself provides tutorials on how you can do this. Do go through it.
+4. You need to know how git works. How a commit is done and what it is. Download the book called "progit" which is available for free on the web and go through it. It should provide with the basics as well as advanced knowledge about it. NOTE : Read and learn git well before you actually start contibuting to the project.
+
+5. You need to know what github is and how you can work with the code uploaded there. Github.com itself provides tutorials on how you can do this. Do go through it.
+
+How to compile?
+---------------
+1. Download the code and type 'make' from within the downloaded folder.
+2. ./abacus will run the program.
 
 How to contribute?
 ------------------
