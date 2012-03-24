@@ -1,0 +1,40 @@
+About
+-----
+This is a collaborative project being undertaken by the Computer Science students of NSSCE who are members of the technical association, ABACUS (http://allforabacus.com/)
+
+The idea behind the project is to learn the use of git and how everyone can co-operatively work on a single project. In a nut shell, by involving in this project, you are learning how to contribute to open source projects because this is how it works. So help each other out and make sure everyone participates. Keep improving the code also. There is no restriction that the code written by one person cannot be improved by another. As a matter of fact, it should be improved.
+
+
+What is the project?
+--------------------
+Make all the C programs that we have to do from s3 till s8 into one. So basically, there will be a menu when running the code that asks you which code you wish to run. Selecting an option should present the user with that program's execution. The end result might seem a but vague and uninteresting now, but once you start working on it, you will realize how much fun it is.
+
+The project's structure
+-----------------------
+The project's source code is within a folder 'src'. There is a main.c file that contains only the main function. All the function declarations, the inclusion of standard headers are to be done in the projectc.h file. Finally, all the function definitions should be done in separate files. That is, the welcoming menu is in a file called menu.c which contains functions related to the welcoming messages and menu. If you wish to write the code for file operations, create a file called file.c or something and write the corresponding functions within it. All these functions need to be called from within main().
+
+What all you should know
+------------------------
+1. You need to know C and even if you know it, you still need to learn more to make the code more efficient.
+
+2. We are not writing a single huge .c file containing all the code. That is neither a standard nor an efficient practice. Therefore, we need to split the entire project into different pieces. As such, you will need to understand how multiple files can be compiled together. In our case, the main.c, projectc.h and other .c files.
+
+3. You need to know how git works. How a commit is done and what it is. Download the book called "progit" which is available for free on the web and go through it. It should provide with the basics as well as advanced knowledge about it. NOTE : Read and learn git well before you actually start contibuting to the project.
+
+4. You need to know what github is and how you can work with the code uploaded there. Github.com itself provides tutorials on how you can do this. Do go through it.
+
+How to contribute?
+------------------
+Fork the projectc repository under allforabacus into your personal repository and clone it to your local system. Go through the code and add to it whatever you can. Commit it, push it back to your personal repository and send a pull request. You are good to go.
+
+Info
+----
+Scared after reading all that is written above? Don't worry. Whatever doubts you have, just ask them on allforabacus@googlegroups.com . IMPORTANT : DON'T BE AFRAID TO ASK YOUR DOUBTS! None of us are experts. We are friends and so let us all help each other out. :)
+
+Ask doubts, ask doubts and once again, ask doubts!
+
+Current collaborators of Abacus' repository :
+---------------------------------------------
+1. Haris Ibrahim K. V.
+
+If you know git and github well and would like to help out in reviewing the pull requests and merging them to the project, please send a request in the allforabacus@googlegroups.com mailing list to be added as a collaborator.
