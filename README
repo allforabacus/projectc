@@ -34,6 +34,8 @@ How to contribute?
 ------------------
 Fork the projectc repository under allforabacus into your personal repository and clone it to your local system. Go through the code and add to it whatever you can. Commit it, push it back to your personal repository and send a pull request. You are good to go.
 
+Keep in mind that we can't just have code written to every individual's like in different styles. Since this is a team effort, we have to stick onto a coding standard. For this purpose, let us use the linux kernel coding standard. Don't worry. This just states where all to put the braces and how the indentation and things should be So go through it here : http://www.kernel.org/doc/Documentation/CodingStyle
+
 Info
 ----
 Scared after reading all that is written above? Don't worry. Whatever doubts you have, just ask them on allforabacus@googlegroups.com . IMPORTANT : DON'T BE AFRAID TO ASK YOUR DOUBTS! None of us are experts. We are friends and so let us all help each other out. :)
