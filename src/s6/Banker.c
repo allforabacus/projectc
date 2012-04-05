@@ -1,6 +1,8 @@
-#include<stdio.h>
 
-	int main()
+	//will compelete in a few days!!
+
+#include<stdio.h>
+int main()
 
 	{
 	int allocated[10][10];
